@@ -1,0 +1,77 @@
+OCR Result:
+UserState
+
+New
+
+Actice
+Blocked
+Banned
+
+ 
+
+ 
+ 
+ 
+
+i, on address: Address
+login_id: Stringt{id} phone: Phone
+state: UserState
+id: String{id}
+paid: Date
+total: Real
+details: String
+
+   
+
+      
+ 
+
+id: String {id}
+billing address:
+Address
+is_closed"” Boolean
+open: Date
+
+closed: Date
+
+ 
+ 
+
+ 
+ 
+
+Courses
+
+created: Date
+
+   
+
+Enrolment
+
+number: String {id}
+
+en_no: Date
+
+Start: Date
+
+course: Course Name
+status: Enrollement Status
+
+  
+
+price: Price
+
+enumeration
+OrderStatus
+
+Opted
+
+Enrolled
+
+id: String {id} Closed
+
+name: String
+instructor: String
+
+
+Overall Confidence: 88.45%
